@@ -1,6 +1,6 @@
 package tut7;
 
-public class Act3 {
+public class RecursiveStringReverse {
     public static String reverse(String s) {
         if (s.length() <= 1) {
             return s;

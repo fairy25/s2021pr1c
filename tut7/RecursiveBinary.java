@@ -1,6 +1,6 @@
 package tut7;
 
-public class Act2 {
+public class RecursiveBinary {
     public static void printBinary(int n) {
         // base cases
         if (n == 0) {

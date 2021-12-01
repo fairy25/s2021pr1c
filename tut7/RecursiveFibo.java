@@ -1,6 +1,6 @@
 package tut7;
 
-public class Act4 {
+public class RecursiveFibo {
     public static void printFibonacci(int n, int finish, int p2, int p1) {
         if (n > finish) return;
         if (n == 1) {
